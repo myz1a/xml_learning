@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Личные Дела -->
+<pwCardList>
+	<pwCard num="123456">
+		<firstName>Мар&apos;яна</firstName>
+		<secondName>Лукович</secondName>
+		<patronymic>Вікторівна</patronymic>
+		<rnokpp>123123123</rnokpp>
+		<birthday>1996-03-24</birthday>
+		<gender>ж</gender>
+		<address>
+			<region>Київська</region>
+			<city>Київ</city>
+			<street>вул. Пушкінська 38, кв. 15</street>
+		</address>
+		<educationList>
+			<education>
+				<type>Вища</type>
+				<level>Спеціаліст</level>
+				<school>КНУ</school>
+				<specialty>Соціальна інформатика</specialty>
+				<yearEnd>2002</yearEnd>
+			</education>
+		</educationList>
+	</pwCard>
+</pwCardList>
